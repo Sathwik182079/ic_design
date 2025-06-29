@@ -1,0 +1,12 @@
+Info: Output directory 'C:\Users\aloya\OneDrive\Desktop\FINAL PROJECT\Gerber' created.
+Plotted to 'C:\Users\aloya\OneDrive\Desktop\FINAL PROJECT\Gerber\FINAL PROJECT-F_Cu.gbr'.
+Plotted to 'C:\Users\aloya\OneDrive\Desktop\FINAL PROJECT\Gerber\FINAL PROJECT-B_Cu.gbr'.
+Plotted to 'C:\Users\aloya\OneDrive\Desktop\FINAL PROJECT\Gerber\FINAL PROJECT-F_Paste.gbr'.
+Plotted to 'C:\Users\aloya\OneDrive\Desktop\FINAL PROJECT\Gerber\FINAL PROJECT-B_Paste.gbr'.
+Plotted to 'C:\Users\aloya\OneDrive\Desktop\FINAL PROJECT\Gerber\FINAL PROJECT-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\aloya\OneDrive\Desktop\FINAL PROJECT\Gerber\FINAL PROJECT-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\aloya\OneDrive\Desktop\FINAL PROJECT\Gerber\FINAL PROJECT-F_Mask.gbr'.
+Plotted to 'C:\Users\aloya\OneDrive\Desktop\FINAL PROJECT\Gerber\FINAL PROJECT-B_Mask.gbr'.
+Plotted to 'C:\Users\aloya\OneDrive\Desktop\FINAL PROJECT\Gerber\FINAL PROJECT-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\aloya\OneDrive\Desktop\FINAL PROJECT\Gerber\FINAL PROJECT-job.gbrjob'.
+Info: Done.
